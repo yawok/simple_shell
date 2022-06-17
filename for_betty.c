@@ -3,10 +3,11 @@
 /**
  * main - print Hello world
  *
- * If successfull - returns 0
+ * Return - always 0
  */
-int main(){
+int main(void)
+{
 	printf("Hello World!");
 
-	return 0;
+	return (0);
 }
